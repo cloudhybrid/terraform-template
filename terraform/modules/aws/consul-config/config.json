@@ -1,0 +1,11 @@
+{
+"bootstrap": true,
+"server": true,
+"datacenter": "godam-dev",
+"client_addr": "0.0.0.0",
+"data_dir": "/var/consul",
+"encrypt": "xC1OkPvM3glQIH0A8imiww==",
+"log_level": "INFO",
+"enable_syslog": true,
+"start_join": ["30.0.10.200"]
+}

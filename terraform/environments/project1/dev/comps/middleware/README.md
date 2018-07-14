@@ -1,0 +1,3 @@
+# This is middleware layer directory, This dir will contain middleware components like :
+- Redis, elasticsearch etc...
+

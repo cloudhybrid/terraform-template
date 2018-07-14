@@ -1,0 +1,3 @@
+# This dir contains global aws infra like 
+- s3 bucket creation, loadbalancer, route53 etc...
+
