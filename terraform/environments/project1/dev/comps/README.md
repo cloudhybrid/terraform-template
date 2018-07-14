@@ -1,3 +1,3 @@
-# This cmops directory is basically components directory and here we have segregated components on the basis of layers like:
+# This comps directory is basically components directory and here we have segregated components on the basis of layers like:
 - app layer, web layer, middleware layer, database layer etc...
 
