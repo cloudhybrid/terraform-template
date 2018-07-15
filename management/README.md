@@ -1,8 +1,6 @@
 #Note
 
-```sh
-If client agree then you must have management part in a separate VPC atleast, if possible in a separate aws account altogether
-```
+- If client agree then you must have management part in a separate VPC atleast, if possible in a separate aws account altogether
 
 # This is management module and this module will be having management related stuff like 
 - sonar, jenkins, elk stack, nexus etc...
