@@ -1,0 +1,3 @@
+# This dir contains info regarding security groups:
+- You will be mentioning security groups here `only security groups`
+- security_group_rules you will mention in layer specific folders like app, db, web, middleware etc...
